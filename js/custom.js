@@ -24,21 +24,21 @@ var w = 1280,
 c.width = w
 c.height = h
 var imgs = {
-    'ga_u01': 'https://i.imgur.com/6h7Hi2N.png',
-    'ga_u02': 'https://i.imgur.com/drLM03g.png',
-    'ga_u03': 'https://i.imgur.com/lq7H9qH.png',
-    'ga_u04': 'https://i.imgur.com/dnS02VB.png',
-    'ga_b01': 'https://i.imgur.com/rvz3lJK.png',
-    'ga_b02': 'https://i.imgur.com/cgM8XfE.png',
-    'ga_b03': 'https://i.imgur.com/WQ4Pp9U.png',
-    'ga_b04': 'https://i.imgur.com/FMLjjFH.png',
-    'ga_b05': 'https://i.imgur.com/hxqo3yc.png',
-    'ga_bg': 'https://i.imgur.com/KXdeCxS.jpg',
-    'ga_mo01': 'https://i.imgur.com/3uJYQlZ.png',
-    'ga_mo02': 'https://i.imgur.com/ixld0i4.png',
-    'ga_mo03': 'https://i.imgur.com/hsJGYwy.png',
-    'ga_mo04': 'https://i.imgur.com/pkcdgsN.png',
-    'ga_mo05': 'https://i.imgur.com/iekeQPB.png'
+    'ga_u01': './img/ga_u01.png',
+    'ga_u02': './img/ga_u02.png',
+    'ga_u03': './img/ga_u03.png',
+    'ga_u04': './img/ga_u04.png',
+    'ga_b01': './img/ga_b01.png',
+    'ga_b02': './img/ga_b02.png',
+    'ga_b03': './img/ga_b03.png',
+    'ga_b04': './img/ga_b04.png',
+    'ga_b05': './img/ga_b05.png',
+    'ga_bg': './img/ga_bg.jpg',
+    'ga_mo01': './img/ga_mo01.png',
+    'ga_mo02': './img/ga_mo02.png',
+    'ga_mo03': './img/ga_mo03.png',
+    'ga_mo04': './img/ga_mo04.png',
+    'ga_mo05': './img/ga_mo05.png'
 }
 var img = {};
 

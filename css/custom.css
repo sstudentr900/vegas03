@@ -93,7 +93,7 @@ html {
 
 body {
     margin: 0;
-    background: url('https://i.imgur.com/5rERRuh.jpg') center no-repeat, #000 center;
+    background: url('../img/bg.jpg') center no-repeat, #000 center;
     background-size: cover;
     min-height: 100vh;
 }
@@ -403,7 +403,7 @@ img {
 .login .service i {
     width: 27px;
     height: 27px;
-    background: url('https://i.imgur.com/DABDVmJ.png') no-repeat;
+    background: url('../img/login_phone.png') no-repeat;
     margin-right: 5px;
 }
 
@@ -512,7 +512,7 @@ img {
 .homeNav .user .left i {
     width: 80px;
     height: 80px;
-    background: url('https://i.imgur.com/Wcp8I8o.png') no-repeat center;
+    background: url('../img/ho_i41.png') no-repeat center;
     background-clip: content-box;
     padding: 2px;
     position: relative;
@@ -551,7 +551,7 @@ img {
 
 .homeNav .monoy i,
 .homeNav .Chip i {
-    background: url('https://i.imgur.com/gWvQ2n2.png') no-repeat;
+    background: url('../img/ho_i21.png') no-repeat;
     width: 80px;
     height: 55px;
     z-index: 1;
@@ -614,7 +614,7 @@ img {
 }
 
 .homeNav .Chip i {
-    background: url('https://i.imgur.com/xJEST7K.png') no-repeat;
+    background: url('../img/ho_i22.png') no-repeat;
     width: 68px;
     height: 60px;
 }
@@ -651,29 +651,29 @@ img {
 }
 
 .homeNav .setUp i {
-    background: url('https://i.imgur.com/fOvqa7E.png') no-repeat center;
+    background: url('../img/ho_i01.png') no-repeat center;
     width: 40px;
     height: 40px;
 }
 
 .homeNav li:nth-child(4) i {
-    background: url('https://i.imgur.com/wsLOZ8X.png') no-repeat center;
+    background: url('../img/ho_i02.png') no-repeat center;
 }
 
 .homeNav li:nth-child(5) i {
-    background: url('https://i.imgur.com/whQE0Db.png') no-repeat center;
+    background: url('../img/ho_i03.png') no-repeat center;
 }
 
 .homeNav li:nth-child(6) i {
-    background: url('https://i.imgur.com/DzspdBc.png') no-repeat center;
+    background: url('../img/ho_i04.png') no-repeat center;
 }
 
 .homeNav li:nth-child(7) i {
-    background: url('https://i.imgur.com/DNfmKYi.png') no-repeat center;
+    background: url('../img/ho_i05.png') no-repeat center;
 }
 
 .homeNav li:nth-child(8) i {
-    background: url('https://i.imgur.com/nfrsCwe.png') no-repeat center;
+    background: url('../img/ho_i06.png') no-repeat center;
 }
 
 .homeNav .setUps {
@@ -919,7 +919,7 @@ img {
 }
 
 .home .homeSlide .bulletin i {
-    background: url('https://i.imgur.com/jeAuH46.png') no-repeat center;
+    background: url('../img/ho_i08.png') no-repeat center;
     width: 28px;
     height: 28px;
     margin-right: 10px;
@@ -945,7 +945,7 @@ img {
     width: 31%;
     text-align: center;
     padding: 20px 0 5px;
-    background: url('https://i.imgur.com/WSfuQCE.png') no-repeat bottom right, linear-gradient(#442957, #22182f);
+    background: url('../img/ho_bg.png') no-repeat bottom right, linear-gradient(#442957, #22182f);
     cursor: pointer;
 }
 
@@ -975,30 +975,30 @@ img {
 }
 
 .home .hundreds i {
-    background: url('https://i.imgur.com/EViNVXq.png') no-repeat center;
+    background: url('../img/ho_i31.png') no-repeat center;
     background-size: 100%;
 }
 
 .home .hundreds h2 {
-    background: url('https://i.imgur.com/fr9QGAd.png') no-repeat center;
+    background: url('../img/ho_t01.png') no-repeat center;
 }
 
 .home .showhand i {
-    background: url('https://i.imgur.com/dcagMyT.png') no-repeat center;
+    background: url('../img/ho_i32.png') no-repeat center;
     background-size: 100%;
 }
 
 .home .showhand h2 {
-    background: url('https://i.imgur.com/1Us1N1L.png') no-repeat center;
+    background: url('../img/ho_t02.png') no-repeat center;
 }
 
 .home .casino i {
-    background: url('https://i.imgur.com/K7aY36n.png') no-repeat center;
+    background: url('../img/ho_i33.png') no-repeat center;
     background-size: 100%;
 }
 
 .home .casino h2 {
-    background: url('https://i.imgur.com/xoYwb9i.png') no-repeat center;
+    background: url('../img/ho_t03.png') no-repeat center;
 }
 
 .home .game {
@@ -1058,7 +1058,7 @@ img {
     width: 25px;
     height: 25px;
     position: absolute;
-    background: url('https://i.imgur.com/chqaeGI.png') no-repeat center;
+    background: url('../img/ho_i10.png') no-repeat center;
     right: 5px;
     top: 5px;
 }
@@ -1133,7 +1133,7 @@ img {
 .home .game .bottom .name i {
     width: 60px;
     height: 60px;
-    background: url('https://i.imgur.com/Wcp8I8o.png') no-repeat center;
+    background: url('../img/ho_i41.png') no-repeat center;
     background-clip: content-box;
     padding: 1px;
     position: relative;
@@ -1171,16 +1171,16 @@ img {
 .home .game .bottom .people i {
     width: 35px;
     height: 30px;
-    background: url('https://i.imgur.com/MQOKaJM.png') no-repeat center;
+    background: url('../img/ho_i11.png') no-repeat center;
     margin-right: 5px;
 }
 
 .home .game .bottom .monoy i {
-    background: url('https://i.imgur.com/B9NdtBp.png') no-repeat center;
+    background: url('../img/ho_i12.png') no-repeat center;
 }
 
 .home .game .bottom .message i {
-    background: url('https://i.imgur.com/CTgqUxy.png') no-repeat center;
+    background: url('../img/ho_i13.png') no-repeat center;
 }
 
 .home .game .bottom .enter {
@@ -1254,32 +1254,32 @@ img {
 }
 
 .home .starGame a:nth-child(1) i {
-    background: url('https://i.imgur.com/C8kUZEC.png') no-repeat center;
+    background: url('../img/ho_i34.png') no-repeat center;
     background-size: 100%;
 }
 
 .home .starGame a:nth-child(1) h2 {
-    background: url('https://i.imgur.com/AtB5mb7.png') no-repeat center;
+    background: url('../img/ho_t04.png') no-repeat center;
     background-size: 100%;
 }
 
 .home .starGame a:nth-child(2) i {
-    background: url('https://i.imgur.com/QzOtcBd.png') no-repeat center;
+    background: url('../img/ho_i35.png') no-repeat center;
     background-size: 100%;
 }
 
 .home .starGame a:nth-child(2) h2 {
-    background: url('https://i.imgur.com/h8MfCb8.png') no-repeat center;
+    background: url('../img/ho_t05.png') no-repeat center;
     background-size: 100%;
 }
 
 .home .starGame a:nth-child(3) i {
-    background: url('https://i.imgur.com/5lZkePN.png') no-repeat center;
+    background: url('../img/ho_i36.png') no-repeat center;
     background-size: 100%;
 }
 
 .home .starGame a:nth-child(3) h2 {
-    background: url('https://i.imgur.com/e8HY5hN.png') no-repeat center;
+    background: url('../img/ho_t06.png') no-repeat center;
     background-size: 100%;
 }
 
